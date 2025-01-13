@@ -100,3 +100,7 @@ curl -X POST http://127.0.0.1:5000/echo -H "Content-Type: application/json" -d '
 ```
 - Expected response: `{"error": "Missing 'message' in request body"}`
 
+
+## Completion Proof
+
+Try the query parameter endpoint with your name, whether in the browser or through curl. Take a screenshot and upload to the specified in-class activity on brightspace.
