@@ -10,6 +10,17 @@ This demo app demonstrates basic HTTP operations using Flask. You’ll be able t
 - A route that greets the user based on a query parameter (`name`)
 - A route that echoes a message sent in a JSON body using a POST request.
 
+### Learning Objectives
+- Set up and run a Flask application
+- Understand how API endpoints work in practice
+- Experience different methods of interacting with endpoints (browser, curl)
+
+### Prior Knowledge:
+- Command line usage (Git, Python, curl)
+- Basic knowledge of HTTP requests and REST APIs
+
+### Time Estimate: 10 minutes
+
 
 ## Prerequisites
 
