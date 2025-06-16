@@ -1,4 +1,3 @@
-
 # Flask "Hello, World!" Demo App
 
 ## Overview
@@ -18,6 +17,7 @@ This demo app demonstrates basic HTTP operations using Flask. You’ll be able t
 ### Prior Knowledge:
 - Command line usage (Git, Python, curl)
 - Basic knowledge of HTTP requests and REST APIs
+- Difference between path/query/body parameters
 
 ### Time Estimate: 10 minutes
 
