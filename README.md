@@ -11,13 +11,11 @@ This demo app demonstrates basic HTTP operations using Flask. You’ll be able t
 
 ### Learning Objectives
 - Set up and run a Flask application
-- Understand how API endpoints work in practice
+- Understand how HTTP requests and API endpoints work in practice
 - Experience different methods of interacting with endpoints (browser, curl)
 
 ### Prior Knowledge:
-- Command line usage (Git, Python, curl)
-- Basic knowledge of HTTP requests and REST APIs
-- Difference between path/query/body parameters
+- Running basic commands in the terminal
 
 ### Time Estimate: 10 minutes
 
